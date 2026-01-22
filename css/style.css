@@ -1,7 +1,7 @@
 body {
     padding-top: 20px;
     text-align: center;
-    background-image: url("imgs/old_map.png");
+    background-image: url("../imgs/old_map.png");
 }
 
 #page {
@@ -19,7 +19,7 @@ header {
 }
 
 header h1 {
-    background-image: url("imgs/foto.png");
+    background-image: url("../imgs/foto.png");
     background-repeat: no-repeat;
     background-position: 25px center;
     padding: 20px 100px;
@@ -30,7 +30,7 @@ nav {
     font-size: 1.4em;
     color: silver;
     text-align: center;
-    background-image: url("imgs/red015.jpg");
+    background-image: url("../imgs/red015.jpg");
 }
 
 nav ul li {
@@ -43,19 +43,19 @@ nav ul li {
 }
 
 #estudios {
-    background-image: url("imgs/estudios.png");
+    background-image: url("../imgs/estudios.png");
     background-repeat: no-repeat;
     background-position: center 10px;
 }
 
 #conocimientos {
-    background-image: url("imgs/conocimientos.png");
+    background-image: url("../imgs/conocimientos.png");
     background-repeat: no-repeat;
     background-position: center 10px;
 }
 
 #contacto {
-    background-image: url("imgs/contacto.png");
+    background-image: url("../imgs/contacto.png");
     background-repeat: no-repeat;
     background-position: center 10px;
 }
@@ -63,7 +63,7 @@ nav ul li {
 section {
     font-family: Verdana;
     font-size: 0.8em;
-    background-image: url("imgs/lgrey008.jpg");
+    background-image: url("../imgs/lgrey008.jpg");
     width: 100%;
     display: table;
 }
